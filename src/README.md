@@ -1,18 +1,20 @@
 # Message to new intern 
 
-HI THERE THIS IS JED
+Hi! This is the previous intern. I have left as of 2nd Aug.
 
-IF YOU ARE SEEING THIS WE HAVE ALREADY RETIRED ON MARCH 29 
+All the best in continuing the project! Don't worry too much if the project seems overwhelming or if you find it hard to
+progress. I was quite lost for a good chunk of the project as well and struggled quite a bit since I was not used to research
+work but managed to make some progress in the end. Just try your best and learn as much as you can.
 
-I heard that you are a year 2 math major so this project should be fine for you
-however if you feel that you are lost or that you do not know what to do, it is okay
+If you need help understanding the project, you can reach out to me.
 
-Just make sure that you have fun and enjoy the learning experience.
+I have also left a branch called "Incomplete Ideas" which includes a "ConceptTesting.py" file in the data_processing file
+that I made to test random snippets of very very unorganised and unoptimised code that may have some ideas that may help
+but can be ignored if it's too messy (I didn't have time to clean it up).
 
-LOVE AND PEACE
+Good luck!
+Andre
 
-jed
- 
 # General code overview
 ## Data processing
 All the code that involves calculating image embeddings is here
